@@ -4,3 +4,33 @@ profilePicture = "images/profile.jpg"
 description = """
 [PLACEHOLDER]
 """
+
+# Mastodon Account
+[[socialIcons]]
+icon = "fab fa-mastodon"
+title = "Mastodon"
+url = "https://mastodon.gamedev.place/@MothWaves"
+
+# Github Account
+[[socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/MothWaves"
+
+# GPG Keys
+# [[socialIcons]]
+# icon = "fab fa-mastodon"
+# title = "Mastodon"
+# url = "https://mastodon.gamedev.place/@MothWaves"
+
+# Ko-fi account
+[[socialIcons]]
+icon = "fas fa-hand-holding-heart"
+title = "Ko-Fi"
+url = "https://ko-fi.com/mothwaves"
+
+# Email
+# [[socialIcons]]
+# icon = "fab fa-mastodon"
+# title = "Mastodon"
+# url = "https://mastodon.gamedev.place/@MothWaves"
