@@ -1,0 +1,23 @@
+[[main]]
+name = "Introduction"
+identifier = "intro"
+weight = 100
+url = "/"
+
+[[main]]
+name = "Portfolio"
+identifier = "portfolio"
+weight = 200
+url = "/portfolio/"
+
+[[main]]
+name = "Services"
+identifier = "services"
+weight = 300
+url = "/services/"
+
+[[main]]
+name = "Blog"
+identifier = "blog"
+weight = 400
+url = "/blog/"
