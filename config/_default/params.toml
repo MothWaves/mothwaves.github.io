@@ -34,3 +34,9 @@ url = "https://ko-fi.com/mothwaves"
 # icon = "fab fa-mastodon"
 # title = "Mastodon"
 # url = "https://mastodon.gamedev.place/@MothWaves"
+
+# Itch.io account
+[[socialIcons]]
+icon = "fab fa-itch-io"
+title = "Itch.Io"
+url = "https://mothwaves.itch.io"
