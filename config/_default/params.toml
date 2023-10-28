@@ -2,8 +2,11 @@ title = "MothWaves"
 author = "MothWaves"
 profilePicture = "images/profile.jpg"
 description = """
-[PLACEHOLDER]
+Artist and Developer
 """
+#Alternative Descriptions:
+# "Artist and Developer"
+# "Professional Insect"
 
 # Mastodon Account
 [[socialIcons]]
@@ -17,7 +20,19 @@ icon = "fab fa-github"
 title = "Github"
 url = "https://github.com/MothWaves"
 
-# GPG Keys
+# Itch.io account
+[[socialIcons]]
+icon = "fab fa-itch-io"
+title = "Itch.Io"
+url = "https://mothwaves.itch.io"
+
+# GPG Keys [TODO]
+# [[socialIcons]]
+# icon = "fab fa-mastodon"
+# title = "Mastodon"
+# url = "https://mastodon.gamedev.place/@MothWaves"
+
+# Email [TODO]
 # [[socialIcons]]
 # icon = "fab fa-mastodon"
 # title = "Mastodon"
@@ -28,15 +43,3 @@ url = "https://github.com/MothWaves"
 icon = "fas fa-hand-holding-heart"
 title = "Ko-Fi"
 url = "https://ko-fi.com/mothwaves"
-
-# Email
-# [[socialIcons]]
-# icon = "fab fa-mastodon"
-# title = "Mastodon"
-# url = "https://mastodon.gamedev.place/@MothWaves"
-
-# Itch.io account
-[[socialIcons]]
-icon = "fab fa-itch-io"
-title = "Itch.Io"
-url = "https://mothwaves.itch.io"
