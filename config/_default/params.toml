@@ -46,6 +46,12 @@ icon = "fas fa-envelope"
 title = "Work Email"
 url = "mailto:mothwaves.work@outlook.com"
 
+# Matrix account
+[[socialIcons]]
+icon = "fas fa-comments"
+title = "Matrix Messaging"
+url = "https://matrix.to/#/@mothwaves:matrix.org"
+
 # Ko-fi account
 [[socialIcons]]
 icon = "fas fa-hand-holding-heart"
