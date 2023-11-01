@@ -4,6 +4,10 @@ date = 2023-10-31T23:15:08Z
 draft = true
 +++
 
+---
+
+# Contacting
+
 You can reach me through my email or through one of the social media listed in the links on the left or the links listed below.
 
 ## Business
@@ -16,4 +20,32 @@ If you simply wish to send me a message, reach out to me through one of the foll
 
 - **Matrix**: @mothwaves:matrix.org
 
-- **Telegram**: N/A
+---
+
+# Platforms
+
+I am present on several other platforms where I host my content. If you like what you've seen, check them out:
+
+## Games
+
+You can find my games in the following places:
+
+- **[Itch.io](https://mothwaves.itch.io/)** -- Where I post all my games.
+
+## Social Media
+
+- **[Mastodon](https://mastodon.gamedev.place/@MothWaves)** -- Probably where I'm most active.
+- **[Instagram](https://www.instagram.com/waves.in.dreams/)** -- I occasionally post some updates on my work and some art.
+- **[Cohost](https://cohost.org/primo-vista-poison)** -- Rarely use it.
+
+## Programming
+
+- **[Github](https://github.com/MothWaves)** -- Where I put most of my projects.
+
+- **[Codepen](https://codepen.io/MothWaves)** -- My Codepens. Not a lot there
+
+- **[Leetcode](https://leetcode.com/mothwaves/)** -- My Leetcode profile.
+
+## Support Me
+
+- **[Ko-Fi](https://ko-fi.com/mothwaves)** -- You can support me on Ko-Fi. 
