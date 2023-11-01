@@ -7,6 +7,8 @@ date = 2023-10-31T23:32:08Z
 
 Most of the tools listed here are going to be open-source, since I tend to prefer open-source software for ideological and practical reasons. Although, that doesn't mean I won't use proprietary software, every now and then.
 
+None of these tools serve as a restriction and I am willing to work with other tools if needed. This list is simply meant to provide an overview of my usual work-flow for any who are curious. 
+
 ## Operating Systems
 
 - Arch Linux: My preferred and primary operating system.
@@ -16,8 +18,6 @@ Most of the tools listed here are going to be open-source, since I tend to prefe
 ## Programming Environment
 
 - [Doom Emacs](https://github.com/doomemacs/doomemacs): My main text-editor and code editor.
-
-- VS Code: Occasionally, my code-editor. 
 
 - Bash: My terminal.
 
@@ -48,6 +48,8 @@ Most of the tools listed here are going to be open-source, since I tend to prefe
 Less important or less commonly used tools. 
 
 - neovim/vim: For quick text-editing.
+
+- VS Code: Occasionally, my code-editor. 
 
 - [LiteXL](https://lite-xl.com/): For editing text files.
 
