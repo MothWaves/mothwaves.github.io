@@ -34,17 +34,17 @@ icon = "fab fa-instagram"
 title = "Instagram"
 url = "https://www.instagram.com/waves.in.dreams"
 
-# Matrix account
-[[socialIcons]]
-icon = "fas fa-comment-dots"
-title = "Matrix Messaging"
-url = "https://matrix.to/#/@mothwaves:matrix.org"
-
 # Ko-fi account
 [[socialIcons]]
 icon = "fas fa-hand-holding-heart"
 title = "Ko-Fi"
 url = "https://ko-fi.com/mothwaves"
+
+# Matrix account
+[[socialIcons]]
+icon = "fas fa-comment-dots"
+title = "Matrix Messaging"
+url = "https://matrix.to/#/@mothwaves:matrix.org"
 
 # GPG Keys
 [[socialIcons]]
