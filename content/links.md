@@ -20,6 +20,10 @@ If you simply wish to send me a message, reach out to me through one of the foll
 
 - **Matrix**: [@mothwaves:matrix.org](https://matrix.to/#/@mothwaves:matrix.org)
 
+## Security
+
+If you have any security concerns related to my website or any of my projects, please contact me through the methods listed in my {{< linkpage path=".well-known/" text="security details">}}.
+
 ---
 
 # Platforms
