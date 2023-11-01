@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Personal Website'
+title = "MothWaves's Website"
 [module]
   # uncomment line below for temporary local development of module
   # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
