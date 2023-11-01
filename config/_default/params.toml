@@ -10,6 +10,18 @@ favicon = "favicons/"
 # "Artist and Developer"
 # "Professional Insect"
 
+# Itch.io account
+[[socialIcons]]
+icon = "fab fa-itch-io"
+title = "Itch.Io"
+url = "https://mothwaves.itch.io"
+
+# Github Account
+[[socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/MothWaves"
+
 # Mastodon Account
 [[socialIcons]]
 icon = "fab fa-mastodon"
@@ -22,17 +34,17 @@ icon = "fab fa-instagram"
 title = "Instagram"
 url = "https://www.instagram.com/waves.in.dreams"
 
-# Github Account
+# Matrix account
 [[socialIcons]]
-icon = "fab fa-github"
-title = "Github"
-url = "https://github.com/MothWaves"
+icon = "fas fa-comment-dots"
+title = "Matrix Messaging"
+url = "https://matrix.to/#/@mothwaves:matrix.org"
 
-# Itch.io account
+# Ko-fi account
 [[socialIcons]]
-icon = "fab fa-itch-io"
-title = "Itch.Io"
-url = "https://mothwaves.itch.io"
+icon = "fas fa-hand-holding-heart"
+title = "Ko-Fi"
+url = "https://ko-fi.com/mothwaves"
 
 # GPG Keys
 [[socialIcons]]
@@ -45,15 +57,3 @@ url = ".well-known/gpg.txt"
 icon = "fas fa-envelope"
 title = "Work Email"
 url = "mailto:mothwaves.work@outlook.com"
-
-# Matrix account
-[[socialIcons]]
-icon = "fas fa-comments"
-title = "Matrix Messaging"
-url = "https://matrix.to/#/@mothwaves:matrix.org"
-
-# Ko-fi account
-[[socialIcons]]
-icon = "fas fa-hand-holding-heart"
-title = "Ko-Fi"
-url = "https://ko-fi.com/mothwaves"
