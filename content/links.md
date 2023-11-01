@@ -12,7 +12,7 @@ You can reach me through my email or through one of the social media listed in t
 
 ## Business
 
-If you wish to inquire in-depth about any project or the website, or if you wish to contact me for a business proposal or for collaboration, please use my email: mothwaves.work@outlook.com
+If you wish to inquire in-depth about any project or the website, or if you wish to contact me for a business proposal or for collaboration, please contact me through my work email: mothwaves.work@outlook.com
 
 ## Messaging
 
