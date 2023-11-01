@@ -34,11 +34,11 @@ icon = "fab fa-itch-io"
 title = "Itch.Io"
 url = "https://mothwaves.itch.io"
 
-# GPG Keys [TODO]
-# [[socialIcons]]
-# icon = "fab fa-mastodon"
-# title = "Mastodon"
-# url = "https://mastodon.gamedev.place/@MothWaves"
+# GPG Keys
+[[socialIcons]]
+icon = "fas fa-key"
+title = "GPG"
+url = ".well-known/gpg.txt"
 
 # Email
 [[socialIcons]]
