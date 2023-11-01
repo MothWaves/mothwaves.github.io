@@ -5,19 +5,44 @@ weight = 100
 url = "/"
 
 [[main]]
+name = "More About Me"
+identifier = "about-me"
+weight = 200
+
+[[main]]
+name = "My Skills"
+identifier = "skills"
+weight = 210
+parent = "about-me"
+url = "/skills/"
+
+[[main]]
+name = "My Tools"
+identifier = "mytools"
+weight = 220
+parent = "about-me"
+url = "/mytools/"
+
+[[main]]
 name = "Portfolio"
 identifier = "portfolio"
-weight = 200
+weight = 300
 url = "/portfolio/"
 
 [[main]]
 name = "Services"
 identifier = "services"
-weight = 300
+weight = 400
 url = "/services/"
 
 [[main]]
 name = "Blog"
 identifier = "blog"
-weight = 400
+weight = 500
 url = "/blog/"
+
+[[main]]
+name = "Links"
+identifier = "links"
+weight = 600
+url = "/links/"

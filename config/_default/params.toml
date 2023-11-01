@@ -3,6 +3,7 @@ author = "MothWaves"
 profilePicture = "images/profile.jpg"
 description = """
 Artist and Developer
+Open for Work!
 """
 #Alternative Descriptions:
 # "Artist and Developer"
@@ -13,6 +14,12 @@ Artist and Developer
 icon = "fab fa-mastodon"
 title = "Mastodon"
 url = "https://mastodon.gamedev.place/@MothWaves"
+
+# Instagram account
+[[socialIcons]]
+icon = "fab fa-instagram"
+title = "Instagram"
+url = "https://www.instagram.com/waves.in.dreams"
 
 # Github Account
 [[socialIcons]]
@@ -32,11 +39,11 @@ url = "https://mothwaves.itch.io"
 # title = "Mastodon"
 # url = "https://mastodon.gamedev.place/@MothWaves"
 
-# Email [TODO]
-# [[socialIcons]]
-# icon = "fab fa-mastodon"
-# title = "Mastodon"
-# url = "https://mastodon.gamedev.place/@MothWaves"
+# Email
+[[socialIcons]]
+icon = "fas fa-envelope"
+title = "Mastodon"
+url = "https://mastodon.gamedev.place/@MothWaves"
 
 # Ko-fi account
 [[socialIcons]]
