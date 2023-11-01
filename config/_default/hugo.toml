@@ -1,6 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = "MothWaves's Website"
+
+timeZone = 'Europe/Lisbon'
 [module]
   # uncomment line below for temporary local development of module
   # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
