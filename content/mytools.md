@@ -59,6 +59,8 @@ Less important or less commonly used tools.
 
 - MPD with ncmpcpp: For listening to music.
 
+- Bryce3D: Occasionally use it for [surreal retro renders](https://www.instagram.com/p/CrKR4JkIWJT/).
+
 ### Personal Organization
 
 - [calcurse](https://calcurse.org/): An ncurses terminal calendar application.
