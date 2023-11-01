@@ -5,6 +5,7 @@ description = """
 Artist and Developer
 Open for Work!
 """
+favicon= "favicons/"
 #Alternative Descriptions:
 # "Artist and Developer"
 # "Professional Insect"
