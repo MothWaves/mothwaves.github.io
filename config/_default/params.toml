@@ -43,8 +43,8 @@ url = ".well-known/gpg.txt"
 # Email
 [[socialIcons]]
 icon = "fas fa-envelope"
-title = "Mastodon"
-url = "https://mastodon.gamedev.place/@MothWaves"
+title = "Work Email"
+url = "mailto:mothwaves.work@outlook.com"
 
 # Ko-fi account
 [[socialIcons]]
