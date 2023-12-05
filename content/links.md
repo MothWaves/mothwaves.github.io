@@ -1,7 +1,6 @@
 +++
 title = 'Other Places To Find Me'
 date = 2023-10-31T23:15:08Z
-draft = true
 +++
 
 ---
