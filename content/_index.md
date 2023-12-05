@@ -19,7 +19,7 @@ This also extends to videogame development, meaning I try my best to offer nativ
 
 ## Business
 
-I am currently open for freelance work! Look into [Services](./services/) to find out what I'm open to doing and my prices. If you have any other business proposals, feel free to send me an email and be sure to check out my [contact information](./links/). 
+I am currently open for freelance work! If you have any other business proposals, feel free to send me an email and be sure to check out my [contact information](./links/). 
 
 ## Support me
 
