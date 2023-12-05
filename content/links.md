@@ -19,6 +19,7 @@ If you wish to inquire in-depth about any project or the website, or if you wish
 If you simply wish to send me a message, reach out to me through one of the following services:
 
 - **Matrix**: [@mothwaves:matrix.org](https://matrix.to/#/@mothwaves:matrix.org)
+- **Casual Email:** [mothwaves@outlook.com](mailto:mothwaves@outlook.com)
 
 ## Security
 
