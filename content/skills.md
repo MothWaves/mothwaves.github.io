@@ -9,7 +9,9 @@ Here's an overview of my skills.
 
 #### Main Languages
 
-- C/C++
+- C
+
+- C++
 
 - Rust
 
@@ -21,12 +23,11 @@ Here's an overview of my skills.
 
 - Lua
 
-- Javascript (Poorly)
+- Javascript
 
 ## Game Development
 
 - Godot
-- Pixel-Art
 
 ## Web Development
 
@@ -43,3 +44,11 @@ Here's an overview of my skills.
 - Encryption
 
 - Writing
+
+# Still Learning
+
+## Game Development
+
+- Pixel-Art
+
+- Bevy
