@@ -29,11 +29,11 @@ identifier = "portfolio"
 weight = 300
 url = "/portfolio/"
 
-[[main]]
-name = "Services"
-identifier = "services"
-weight = 400
-url = "/services/"
+# [[main]]
+# name = "Services"
+# identifier = "services"
+# weight = 400
+# url = "/services/"
 
 [[main]]
 name = "Blog"
