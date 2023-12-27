@@ -40,14 +40,11 @@ You can find my games in the following places:
 
 - **[Mastodon](https://mastodon.gamedev.place/@MothWaves)** -- Probably where I'm most active.
 - **[Instagram](https://www.instagram.com/waves.in.dreams/)** -- I occasionally post some updates on my work and some art.
-- **[Cohost](https://cohost.org/primo-vista-poison)** -- Rarely use it.
 
 ## Programming
 
 - **[Github](https://github.com/MothWaves)** -- Where I put most of my projects.
-
 - **[Codepen](https://codepen.io/MothWaves)** -- My Codepens. Not a lot there
-
 - **[Leetcode](https://leetcode.com/mothwaves/)** -- My Leetcode profile.
 
 ## Support Me
