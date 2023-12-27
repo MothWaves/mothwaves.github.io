@@ -1,6 +1,7 @@
 #!/usr/bin/env sh
 
 hugo --minify
-git add public/.
+mv public docs
+git add docs/.
 git commit -m 'Build Website'
 git push
