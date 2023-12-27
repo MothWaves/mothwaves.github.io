@@ -1,5 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome on MothWaves's Website</title><link>https://mothwaves.github.io/</link><description>Recent content in Welcome on MothWaves's Website</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 28 Oct 2023 02:32:14 +0100</lastBuildDate><atom:link href="https://mothwaves.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>The Tools That I Use</title><link>https://mothwaves.github.io/mytools/</link><pubDate>Tue, 31 Oct 2023 23:32:08 +0000</pubDate><guid>https://mothwaves.github.io/mytools/</guid><description>Preamble Most of the tools listed here are going to be open-source, since I tend to prefer open-source software for ideological and practical reasons. Although, that doesn&amp;rsquo;t mean I won&amp;rsquo;t use proprietary software, every now and then.
-None of these tools serve as a restriction and I am willing to work with other tools if needed. This list is simply meant to provide an overview of my usual work-flow for any who are curious.</description></item><item><title>My Skills</title><link>https://mothwaves.github.io/skills/</link><pubDate>Tue, 31 Oct 2023 23:22:09 +0000</pubDate><guid>https://mothwaves.github.io/skills/</guid><description>Here&amp;rsquo;s an overview of my skills.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on MothWaves&#39;s Website</title>
+    <link>https://mothwaves.github.io/</link>
+    <description>Recent content in Welcome on MothWaves&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Oct 2023 02:32:14 +0100</lastBuildDate><atom:link href="https://mothwaves.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Tools That I Use</title>
+      <link>https://mothwaves.github.io/mytools/</link>
+      <pubDate>Tue, 31 Oct 2023 23:32:08 +0000</pubDate>
+      
+      <guid>https://mothwaves.github.io/mytools/</guid>
+      
+        <description>Preamble Most of the tools listed here are going to be open-source, since I tend to prefer open-source software for ideological and practical reasons. Although, that doesn&amp;rsquo;t mean I won&amp;rsquo;t use proprietary software, every now and then.
+None of these tools serve as a restriction and I am willing to work with other tools if needed. This list is simply meant to provide an overview of my usual work-flow for any who are curious.</description>
+      
+    </item>
+    
+    <item>
+      <title>My Skills</title>
+      <link>https://mothwaves.github.io/skills/</link>
+      <pubDate>Tue, 31 Oct 2023 23:22:09 +0000</pubDate>
+      
+      <guid>https://mothwaves.github.io/skills/</guid>
+      
+        <description>Here&amp;rsquo;s an overview of my skills.
 Programming Languages Main Languages C
 C++
 Rust
@@ -16,6 +43,33 @@ Networking
 Encryption
 Writing
 Still Learning Game Development Pixel-Art
-Bevy</description></item><item><title>Portfolio</title><link>https://mothwaves.github.io/portfolio/</link><pubDate>Tue, 31 Oct 2023 23:22:09 +0000</pubDate><guid>https://mothwaves.github.io/portfolio/</guid><description>I&amp;rsquo;m sorry, there&amp;rsquo;s nothing currently here. Please check out my github to see my recent activity and my current projects.</description></item><item><title>Other Places To Find Me</title><link>https://mothwaves.github.io/links/</link><pubDate>Tue, 31 Oct 2023 23:15:08 +0000</pubDate><guid>https://mothwaves.github.io/links/</guid><description>Contacting You can reach me through my email or through one of the social media listed in the links on the left or the links listed below.
+Bevy</description>
+      
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://mothwaves.github.io/portfolio/</link>
+      <pubDate>Tue, 31 Oct 2023 23:22:09 +0000</pubDate>
+      
+      <guid>https://mothwaves.github.io/portfolio/</guid>
+      
+        <description>I&amp;rsquo;m sorry, there&amp;rsquo;s nothing currently here. Please check out my github to see my recent activity and my current projects.</description>
+      
+    </item>
+    
+    <item>
+      <title>Other Places To Find Me</title>
+      <link>https://mothwaves.github.io/links/</link>
+      <pubDate>Tue, 31 Oct 2023 23:15:08 +0000</pubDate>
+      
+      <guid>https://mothwaves.github.io/links/</guid>
+      
+        <description>Contacting You can reach me through my email or through one of the social media listed in the links on the left or the links listed below.
 Business If you wish to inquire in-depth about any project or the website, or if you wish to contact me for a business proposal or for collaboration, please contact me through my work email: mothwaves.work@outlook.com
-Messaging If you simply wish to send me a message, reach out to me through one of the following services:</description></item></channel></rss>
+Messaging If you simply wish to send me a message, reach out to me through one of the following services:</description>
+      
+    </item>
+    
+  </channel>
+</rss>
