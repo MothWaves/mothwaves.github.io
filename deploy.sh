@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-hugo --minify
+hugo
 mv public docs
 git add docs/.
 git commit -m 'Build Website'
