@@ -1,0 +1,13 @@
+portfolioitems:
+  # portfolio category
+  - title: Coding Projects
+    # items within a category
+    portfolioitem:
+      - name: Rituals
+        image: ''
+        description: 'To be disclosed!'
+        tags:
+        status: 'In Development'
+        start: '2023'
+        authors:
+          - MothWaves
