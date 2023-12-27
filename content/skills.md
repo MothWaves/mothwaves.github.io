@@ -15,13 +15,15 @@ Here's an overview of my skills.
 
 - Rust
 
-- Java
-
 - Python
 
 #### Secondary Languages
 
 - Lua
+
+- Ruby
+
+- Java
 
 - Javascript
 
@@ -38,6 +40,8 @@ Here's an overview of my skills.
 ## Other
 
 - Linux
+
+- SQL
 
 - Networking
 
