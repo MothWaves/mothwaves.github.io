@@ -54,4 +54,4 @@ This website is hosted on Github Pages, using the Hugo framework. This site uses
 
 #### Privacy Policy
 
-I collect the number of visitors to this site using Umami Analytics, a privacy-oriented Google Analytics alternative. Furthermore, the website is hosted by Github Pages, who have their own privacy policy and may collect data. Refer to their [privacy policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement) for further information.
+I do not collect any information through this website, as such there is no privacy policy. However, the website is hosted by Github Pages, who have their own privacy policy and may collect data. Refer to their [privacy policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement) for further information.
