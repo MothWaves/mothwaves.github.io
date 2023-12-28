@@ -59,8 +59,3 @@ title = "Work Email"
 url = "mailto:mothwaves.work@outlook.com"
 
 
-## Analytics
-[params.umami]
-serverURL = "https://analytics.umami.is"
-id = "631ba916-b573-4887-bec5-74c8721df3f8"
-trackerScriptName = "script.js"
