@@ -50,7 +50,7 @@ url = "https://matrix.to/#/@mothwaves:matrix.org"
 [[socialIcons]]
 icon = "fas fa-key"
 title = "GPG"
-url = "https://www.mothwaves.github.io/.well-known/gpg.txt"
+url = "https://mothwaves.github.io/.well-known/gpg.txt"
 
 # Email
 [[socialIcons]]
