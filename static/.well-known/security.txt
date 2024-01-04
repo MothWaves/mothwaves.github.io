@@ -7,21 +7,21 @@ Expires: 2024-11-01T12:00:00.000Z
 Encryption: https://mothwaves.github.io/.well-known/gpg.txt
 Preferred-Languages: en, pt
 Canonical: https://mothwaves.github.io/.well-known/security.txt
-Policy: https://mothwave.github.io/security-policy.txt
+Policy: https://mothwaves.github.io/security-policy.txt
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEV+tEJihzOk3WAaxvj1Q8QZJekAwFAmWWoKkACgkQj1Q8QZJe
-kAx/vQ//Upa0au7YcevdJP4Yphkk6s86fR/NZIw2QSAr087T+W073BTNthox2cvA
-AzbXuxnLDKOMu6zSQYXI0LWx+0EBcF18OdgSItT5CvABJClD6AgXjcPiuUo5+K+t
-NL2K2C8MGPFJLIC4rqwwdogZ429p+ab9xPB8kj8Qyffjc2UUjFZ4OG4B5xIUHth9
-6Ugm3qlDA2gKJsntURsXe5kU4lCxqQy+/RuqiBSf9WPVn7RLnfUD41D8gIMcg+d/
-84WoPvTsZrTw8JQ5MU0PPgzg58MW1Lx1zvw3L0Vn8FO589zEw9RBMG/FvkE114PF
-rF+ayxRg+HDEYLVTrDBH0vXg/zDrEOZiMaWa/aQXIZQciPBxmXwy8bdRm/JRh8vh
-Il42iLTw7DqjJ4p96WK11LezSR3+0SnjBw6yHXRdaqtBtNMbbx37I82K4AM2jKuG
-fg5casIMqYcbRNG3baz/WouGcPkAs8UZeVKS52gOqMKWixI7cMfbXTJzdqGxjE8e
-IROu7cwsrmMO+FK/vHaVC8KeaP1o+Px3BKsYGxCrVwZcIkXjS8UTp9nmc4SRldvK
-oevAowneN+wUF93iKaIb7ZgQ7mBaWTCCaqFE/u5/t7sz3PyWj+XpXbKz/v72HMXN
-F7yUIqnWAdELFdTmlsU3XD9E2NFrbWDTn9sbnxWT8eBpsmQ0yWU=
-=AsR7
+iQIzBAEBCAAdFiEEV+tEJihzOk3WAaxvj1Q8QZJekAwFAmWWoygACgkQj1Q8QZJe
+kAwlIRAAq0q/cy53UwnMy4EClWFoeDb8717tahGtK1REveEHUX0fz61Sds70qipn
+kyj3YvsFwxNv8KvZGSjt3n4/eQdMO2Y+wbjk99g5elq8XWyeNIFySB5YNMqe7Apd
+NpTDZY393Ct6W989p+hPZnbxdQhXAKRPOmw8MEW0CnjS2li4jsQeZafSdxwDdOAm
+xW0FNQZf/KSfKHyHwxKz2/lx0C6I4yD1lhyA/gKO3ExPwpEeWk4rQjX6J2TAJKNc
+pULQHuuZtKvvGsO3la2Zt8yCinZHvfEIlSX7KAEhKy3Gb9aDg1z1pxN18fS8oDRK
+u/M320JCNDQHVAY+zfNYYP9Il2kw1plujLzjQjo8iQ4CCU6254apJ0gyvdcMajvL
+EQ0Etsgn0HF4CaoBGzuc9um+DJv0VlA4BH6gA31lTYA+XA+Us1vvfjKSIyRJHqfV
+NJWJumy7pkAUhF83bHT40K7K4M2Gw05Hknk23diusTEfZasDBiPb5zmWXzauhQgj
+IdzmfZQXUeNNdvjHGf4dvA76Ic0wC1/4k1pOuzAyNTtEfnpLIcUZDZZktLBmD7aN
+t3hJa8vTCH+LywcJKuuA0BUubQhs53Coih6LmX7KC8JW1B6WfKTtda0jYdRlgTQQ
+VYiir6c4pIL7pM+XUpouOmEaGLQjbijhIr84RuQaH/WSMCe6FDE=
+=BQc1
 -----END PGP SIGNATURE-----
