@@ -1,0 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+If the security vulnerability is serious, please send a detailed report to Contact 1, encrypted with my encryption key. If it is not so serious and can be explained in a short message, feel free to message me through Contact 2.
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEV+tEJihzOk3WAaxvj1Q8QZJekAwFAmWWoSMACgkQj1Q8QZJe
+kAxX6g//WjUZadu3VDaPUem9SwFfFzkEXU73n2oSeRUSZcVWb+U56pONZud5C89E
+eJQkg6HSBUHxD27FScyRM3yM0T6lVzrynB3pLvt0qu2+OokNbUa6kR/OcQUHV8nU
+ybDrJ1Gm06OMN6vyntRHpLw5IvtENz9hKemYvXndgfYycu57KtXZ9/D8dWwDoYko
+IcjKyJyw03KquDtVRDvQmRFOEIGNBS+8hEz8eU3w7qKwR30VBnDZ5tAf+wi1BUYH
+feYQNeAc5T8vb0qVAsDpqBeQ7z4CMZOAhU+TPQPr04QXDKm+lnw0FNQETR3iSxeO
+pQK/XVeRMHa8SLdZFF85v9tlJ4+OK7UAv6P0edmOCB6ZV1oBDZUXedxWRtZEoRkN
+Fxx4nZGxi5XR3vl9rdGcNKdSe9omIn3tDxwvKMl7cI9cZjh9pKQIx3mTWKZjGEG+
+KwKQz8MV48rIxBmLxdVeeXdDLReNKQu0oG8sT5nthas/sA81NQolxo7uceXYbpbr
+F6dlHZcVqcxrZ3yp6HF0IAJIYUInD3Sm/j+cw3HAIi81+Jdt+kxVpGOmDBF2Lpi9
+7v5FOScx27qu2DM84w4ioDoxGuK4iEMuD1+DMR2zZhsROYv0AKJRK9ZNmDWBl0zH
+7EIqC68CGEiBSV1TxPJ8m3jW0YVv1ptDU0j+UEAVLdGVl8lEdWQ=
+=1ECc
+-----END PGP SIGNATURE-----

@@ -2,30 +2,26 @@
 Hash: SHA256
 
 Contact 1: mailto:mothwaves.sec@outlook.com
-Contact 2:
-  - Protocol: Matrix Communication Protocol
-  - User Tag: @mothwaves:matrix.org
-  - Link: https://matrix.to/#/@mothwaves:matrix.org
+Contact 2: https://matrix.to/#/@mothwaves:matrix.org
 Expires: 2024-11-01T12:00:00.000Z
-Encryption: baseurl/.well-known/gpg.txt
-Preferred-Languages: en,pt
-Canonical: baseurl/.well-known/security.txt
+Encryption: https://mothwaves.github.io/.well-known/gpg.txt
+Preferred-Languages: en, pt
+Canonical: https://mothwaves.github.io/.well-known/security.txt
+Policy: https://mothwave.github.io/security-policy.txt
 
-Procedure:
-If the security vulnerability is serious, please send a detailed report to Contact 1, encrypted with my encryption key. If it is not so serious and can be explained in a short message, feel free to message me through Contact 2.
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEV+tEJihzOk3WAaxvj1Q8QZJekAwFAmVC2i4ACgkQj1Q8QZJe
-kAzo4A//fcjzYFQhvTcrLAJSGXECYdzFzaaxvwNkXMVXUe4OWfzV6lp2Ja0d606z
-sC/XziKXGBrTOfSGSsMM3+xcdXfEOnGLCD2ix/qyycjVFSG1C0lIHK0g1lOozx0Q
-cy6zVvbVF5YydU/FxZw5u3UA5MS78pj3GSiQITTyuopsVtT7T42f7ZPpZSVKzYYN
-HIY+lwTDXQxPMiY4ft2kA9UR40Cr6OmwY4ZDTMhumsYYbU2GXv38zumXtiUZqgeS
-MdthepGXVMXftSE2OFf47/Nvuj+/WudJVJrPRO/muZ3zx+SnamjOR1n3FAvbGtlY
-tNbF/YTRATyuslq+kpo+4TQuduQQyvHcGqcw2Dh9VjcmLMYLGzkbAXKshTzxgLvb
-rhXsWmPWzzldLzWVWi0k7uYglBKlATldWj/VOYqqwl0i6zMjGeUQuTEPYB6SyT76
-HGOmcNAnNrjTdPDowX2Y14SK3/ef5MJuU82q7AChAnWfEcSurOEOyN4doOyp5ZN7
-lY+LeGFgopgcJci4u3JB0ShI5HKBxu/OnDbGnHfhKRi6Hq3i/x0iS6T6NQqPrT68
-dRlpzjiG6JoJJcMiOLYEDqtq0AYHlygSNHbEYHGLPHp/3GE+puUd/yUEFA92iMeS
-hGnE1v6VGLVQhZKngxKo8pcPp41Qy7y8VzefAF3GVWoLKwEJj+0=
-=CJvr
+iQIzBAEBCAAdFiEEV+tEJihzOk3WAaxvj1Q8QZJekAwFAmWWoKkACgkQj1Q8QZJe
+kAx/vQ//Upa0au7YcevdJP4Yphkk6s86fR/NZIw2QSAr087T+W073BTNthox2cvA
+AzbXuxnLDKOMu6zSQYXI0LWx+0EBcF18OdgSItT5CvABJClD6AgXjcPiuUo5+K+t
+NL2K2C8MGPFJLIC4rqwwdogZ429p+ab9xPB8kj8Qyffjc2UUjFZ4OG4B5xIUHth9
+6Ugm3qlDA2gKJsntURsXe5kU4lCxqQy+/RuqiBSf9WPVn7RLnfUD41D8gIMcg+d/
+84WoPvTsZrTw8JQ5MU0PPgzg58MW1Lx1zvw3L0Vn8FO589zEw9RBMG/FvkE114PF
+rF+ayxRg+HDEYLVTrDBH0vXg/zDrEOZiMaWa/aQXIZQciPBxmXwy8bdRm/JRh8vh
+Il42iLTw7DqjJ4p96WK11LezSR3+0SnjBw6yHXRdaqtBtNMbbx37I82K4AM2jKuG
+fg5casIMqYcbRNG3baz/WouGcPkAs8UZeVKS52gOqMKWixI7cMfbXTJzdqGxjE8e
+IROu7cwsrmMO+FK/vHaVC8KeaP1o+Px3BKsYGxCrVwZcIkXjS8UTp9nmc4SRldvK
+oevAowneN+wUF93iKaIb7ZgQ7mBaWTCCaqFE/u5/t7sz3PyWj+XpXbKz/v72HMXN
+F7yUIqnWAdELFdTmlsU3XD9E2NFrbWDTn9sbnxWT8eBpsmQ0yWU=
+=AsR7
 -----END PGP SIGNATURE-----
