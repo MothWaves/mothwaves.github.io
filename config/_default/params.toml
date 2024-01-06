@@ -5,10 +5,11 @@ description = """
 Artist and Developer
 Open for Work!
 """
-favicon = "favicons/"
 #Alternative Descriptions:
 # "Artist and Developer"
 # "Professional Insect"
+favicon = "favicons/"
+customCss = ["css/custom.css"]
 
 # Itch.io account
 [[socialIcons]]
