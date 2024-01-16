@@ -17,11 +17,9 @@ Here's an overview of my skills.
 
 - Python
 
-#### Secondary Languages
-
 - Lua
 
-- Ruby
+#### Secondary Languages
 
 - Java
 
@@ -50,6 +48,12 @@ Here's an overview of my skills.
 - Writing
 
 # Still Learning
+
+## Programming Languages
+
+- Go
+
+- Ruby
 
 ## Game Development
 
