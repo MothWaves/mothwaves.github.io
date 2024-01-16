@@ -57,8 +57,6 @@ Less important or less commonly used tools.
 
 - Vivaldi: Preferred web-browser. Not *fully* open-source but good enough.
 
-- [Thorium](https://thorium.rocks/): Alternative web-browser for quick searches.
-
 - MPD with ncmpcpp: For listening to music.
 
 - Bryce3D: Occasionally use it for [surreal retro renders](https://www.instagram.com/p/CrKR4JkIWJT/).
