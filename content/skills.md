@@ -15,9 +15,9 @@ Here's an overview of my skills.
 
 - Rust
 
-- Python
-
 - Lua
+
+- Python
 
 #### Secondary Languages
 
