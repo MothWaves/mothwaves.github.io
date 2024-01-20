@@ -50,3 +50,7 @@ You can find my games in the following places:
 ## Support Me
 
 - **[Ko-Fi](https://ko-fi.com/mothwaves)** -- You can support me on Ko-Fi. 
+
+## Music
+
+- **[Bandcamp](https://mothwaves.bandcamp.com)** -- Where I'll likely release OSTs and other non-videogame related albums once I make them.
