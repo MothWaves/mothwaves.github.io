@@ -13,7 +13,7 @@ These instructions will contain examples which are relevant to the `uuidgen` cli
 
 The namespaces can be generated via a UUID v4, assigned to each category. To generate a UUID v4 with `uuidgen`: 
 
-```bash
+```
 uuidgen -r
 ```
 
