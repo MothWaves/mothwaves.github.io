@@ -21,3 +21,5 @@ draft = true
 # Stylistic
 
 - Make code blocks prettier.
+
+- Add dates, author and possibly more to blog posts.
