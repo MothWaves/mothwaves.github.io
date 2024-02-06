@@ -1,7 +1,6 @@
 +++
 title = 'Welcome'
 date = 2023-10-28T02:32:14+01:00
-layout = "single"
 +++
 {{< verifymastodon >}}
 
@@ -13,7 +12,7 @@ You can also see and go to my other main accounts by clicking the icons on the s
 
 ## Who am I?
 
-I am an independent software developer and artist located in Portugal. My interests are varied but are primarily focused on Game Development. I am mostly self-taught and still learning and really not that good on the *art* aspect of "software developer and artist" but I'm hoping to improve that soon.  
+I am an independent software developer and artist located in Portugal. My interests are varied but are primarily focused on Game Development. I am mostly self-taught and still learning and really not that good on the *art* aspect of "software developer and artist" but I'm hoping to improve that soon.
 
 As someone who likes open-source software, I also try to mostly make open-source software and contribute to the FOSS community. This website, for example, has the source code freely available to examine on github, although under a restrictive license due to the content here being personal in nature. 
 
