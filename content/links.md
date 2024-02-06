@@ -40,6 +40,7 @@ You can find my games in the following places:
 
 - **[Mastodon](https://mastodon.gamedev.place/@MothWaves)** -- Probably where I'm most active.
 - **[Instagram](https://www.instagram.com/waves.in.dreams/)** -- I occasionally post some updates on my work and some art.
+- **[Tumblr](https://mothwaves.tumblr.com/)** -- I don't post much there but I reblog and stuff.
 
 ## Programming
 
