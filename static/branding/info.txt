@@ -1,0 +1,3 @@
+This directory contains some of my "branding".
+By which I mean my header images, profile pictures, etc...
+It's here mostly just so I have a place to keep them and easily access them to use in other places.
