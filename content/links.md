@@ -38,8 +38,12 @@ You can find my games in the following places:
 
 ## Social Media
 
-- **[Mastodon](https://mastodon.gamedev.place/@MothWaves)** -- Probably where I'm most active.
+- **[Main Fediverse Account](https://void.lgbt/mothwaves)** -- My main microblogging account. Hosted on void.lgbt.
+
+- **[Game Development Mastodon](https://mastodon.gamedev.place/@MothWaves)** -- Gamedev Mastodon account. Only for posting gamedev news and updates.
+
 - **[Instagram](https://www.instagram.com/waves.in.dreams/)** -- I occasionally post some updates on my work and some art.
+
 - **[Tumblr](https://mothwaves.tumblr.com/)** -- I don't post much there but I reblog and stuff.
 
 ## Programming
